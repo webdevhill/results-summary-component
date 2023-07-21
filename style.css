@@ -121,11 +121,7 @@ span.num-small{
     margin: 15px 0 10px 15px;
 }
 
-.score-container {
-    display: flex;
-}
-
-.score {
+ul > li {
     display: flex;
     justify-content: space-between;
     align-items: center;
