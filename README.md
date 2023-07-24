@@ -12,9 +12,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -45,10 +43,11 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - meedia queries for RWD
+- Javascript fetch API
 
 ### What I learned
 
-Another fun project from Front End Mentor. Built with custom CSS, Flexbox, and media queries. Nothing earth shattering but good practice. There is a data.json file that I did NOT use to dynamicaly populate the results. I normally do not write custom CSS variables. I did take thhe time to do for this short project. It does makes the code more legible but was not a time saver at this scale.
+Another fun project from Front End Mentor. Built with custom CSS, Flexbox, and media queries. Used the fetch API to retrieve the field values from the data.json file. The custom CSS variables may not be necessary for this short project. It does makes the code more legible but was not a time saver at this scale.
 
 ### Continued development
 

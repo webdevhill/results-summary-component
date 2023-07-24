@@ -157,6 +157,7 @@ ul > li {
 .num-bold {
     font-weight: bold;
     color: hsl(0, 0%, 13%);
+    margin-left: 50px;
 }
 
 .num-light {
